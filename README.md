@@ -13,7 +13,6 @@ I design and build robust digital products — from corporate websites and custo
 
 - **CRM Development** — custom systems tailored to business processes
 - **Corporate Websites** — scalable, maintainable web solutions
-- **E-commerce** — Shopify development & customization
 - **AI Integration** — embedding AI tools and APIs into real products
 - **Software Architecture** — designing systems that grow with your business
 
@@ -23,7 +22,6 @@ I design and build robust digital products — from corporate websites and custo
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/AI%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
